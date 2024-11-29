@@ -65,7 +65,7 @@ Passionate and skilled Software Engineer with a Master’s degree in Data Scienc
 ###
 ## <h3>🌟 Featured Projects  </h3>
 
-### 🔗 <h5>[Sentiment Analysis Using Neural Networks](https://github.com/yourusername/sentiment-analysis)  </h5>
+### <h5>🔗[Sentiment Analysis Using Neural Networks](https://github.com/yourusername/sentiment-analysis)  </h5>
 <img height="150" src= "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 - Developed a sentiment analysis model leveraging Natural Language Processing (NLP) and advanced machine learning algorithms, including LSTM, RNN, and GRU.
@@ -73,7 +73,7 @@ Passionate and skilled Software Engineer with a Master’s degree in Data Scienc
 - Extracted insights into prevailing attitudes and emotions across social media platforms, improving sentiment classification reliability by 20%.  
 
 
-### 🔗 <h5> [Policy Management System](https://github.com/yourusername/policy-management)  </h5>
+### <h5>🔗[Policy Management System](https://github.com/yourusername/policy-management)  </h5>
 <img height="150" src= "https://cdn.vectorstock.com/i/1000v/70/63/logo-template-for-an-insurance-company-vector-12267063.jpg"/> 
 Designed and implemented a solution to consolidate insurance policies, integrate custom formulas for column-based data display, and automate alerts for expiring policies, improving efficiency by 30%.
 
